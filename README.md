@@ -1,5 +1,14 @@
 # DSA-Problems
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions Repository
+
+This repository contains my solutions to LeetCode problems implemented in Python. Problems are categorized by topic to track progress and improve algorithmic thinking for coding interviews and competitive programming.
+
+Key Focus Areas:
+- Problem Solving
+- Data Structures
+- Algorithms
+- Interview Preparation
+- Optimization Techniques
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
