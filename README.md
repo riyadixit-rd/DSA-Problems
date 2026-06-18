@@ -24,4 +24,8 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
