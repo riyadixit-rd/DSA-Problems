@@ -33,6 +33,7 @@ Key Focus Areas:
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1840-maximum-building-height) |
 ## Prefix Sum
 |  |
@@ -41,5 +42,14 @@ Key Focus Areas:
 ## Sorting
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1840-maximum-building-height) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
