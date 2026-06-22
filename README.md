@@ -16,10 +16,12 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,5 +53,6 @@ Key Focus Areas:
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
