@@ -31,6 +31,7 @@ Key Focus Areas:
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0009-palindrome-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1840-maximum-building-height) |
 ## Array
