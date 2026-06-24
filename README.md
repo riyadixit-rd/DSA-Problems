@@ -37,6 +37,7 @@ Key Focus Areas:
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [1732-find-the-highest-altitude](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1840-maximum-building-height) |
@@ -52,6 +53,7 @@ Key Focus Areas:
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -62,6 +64,7 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
