@@ -44,6 +44,7 @@ Key Focus Areas:
 | ------- |
 | [0011-container-with-most-water](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0016-3sum-closest) |
 | [1732-find-the-highest-altitude](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1840-maximum-building-height) |
@@ -57,6 +58,7 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0016-3sum-closest) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1840-maximum-building-height) |
 ## Greedy
@@ -76,6 +78,7 @@ Key Focus Areas:
 | [0005-longest-palindromic-substring](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
