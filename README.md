@@ -19,6 +19,7 @@ Key Focus Areas:
 | [0012-integer-to-roman](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0012-integer-to-roman) |
 | [1189-maximum-number-of-balloons](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -50,11 +51,13 @@ Key Focus Areas:
 | [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1840-maximum-building-height) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -90,14 +93,17 @@ Key Focus Areas:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
