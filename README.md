@@ -18,6 +18,7 @@ Key Focus Areas:
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -47,6 +48,7 @@ Key Focus Areas:
 | [0012-integer-to-roman](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0263-ugly-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1840-maximum-building-height) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -109,6 +111,7 @@ Key Focus Areas:
 | [0022-generate-parentheses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0097-interleaving-string) |
+| [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -168,4 +171,8 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0029-divide-two-integers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
