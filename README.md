@@ -138,10 +138,12 @@ Key Focus Areas:
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
@@ -150,6 +152,7 @@ Key Focus Areas:
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0101-symmetric-tree) |
 ## Backtracking
 |  |
@@ -181,4 +184,8 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0062-unique-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
