@@ -50,6 +50,7 @@ Key Focus Areas:
 | [0009-palindrome-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
@@ -167,6 +168,7 @@ Key Focus Areas:
 | ------- |
 | [0010-regular-expression-matching](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
