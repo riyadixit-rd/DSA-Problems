@@ -182,11 +182,13 @@ Key Focus Areas:
 | ------- |
 | [0010-regular-expression-matching](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0024-swap-nodes-in-pairs) |
 ## Enumeration
 |  |
 | ------- |
