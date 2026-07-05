@@ -71,6 +71,7 @@ Key Focus Areas:
 | [0027-remove-element](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -129,6 +130,7 @@ Key Focus Areas:
 | [0010-regular-expression-matching](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0087-scramble-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0097-interleaving-string) |
@@ -237,6 +239,7 @@ Key Focus Areas:
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
