@@ -19,6 +19,7 @@ Key Focus Areas:
 | [0012-integer-to-roman](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -77,6 +78,7 @@ Key Focus Areas:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -205,6 +207,7 @@ Key Focus Areas:
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0052-n-queens-ii) |
 | [0093-restore-ip-addresses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0093-restore-ip-addresses) |
@@ -257,6 +260,7 @@ Key Focus Areas:
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
