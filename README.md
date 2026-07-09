@@ -39,6 +39,7 @@ Key Focus Areas:
 | [0022-generate-parentheses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0067-add-binary](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0093-restore-ip-addresses) |
@@ -61,6 +62,7 @@ Key Focus Areas:
 | [0029-divide-two-integers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -238,6 +240,7 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0067-add-binary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -294,4 +297,8 @@ Key Focus Areas:
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1114-print-in-order) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
