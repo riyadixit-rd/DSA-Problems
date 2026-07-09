@@ -301,4 +301,8 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0067-add-binary) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
