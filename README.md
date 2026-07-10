@@ -327,4 +327,5 @@ Key Focus Areas:
 | [1683-invalid-tweets](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1683-invalid-tweets) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1757-recyclable-and-low-fat-products) |
+| [1789-primary-department-for-each-employee](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
