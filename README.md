@@ -19,6 +19,7 @@ Key Focus Areas:
 | [0012-integer-to-roman](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -84,6 +85,7 @@ Key Focus Areas:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0063-unique-paths-ii) |
@@ -279,6 +281,7 @@ Key Focus Areas:
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
