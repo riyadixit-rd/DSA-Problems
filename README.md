@@ -90,6 +90,7 @@ Key Focus Areas:
 | [0051-n-queens](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0605-can-place-flowers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [1288-remove-covered-intervals](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -128,6 +129,7 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
