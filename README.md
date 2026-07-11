@@ -87,6 +87,7 @@ Key Focus Areas:
 | [0031-next-permutation](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -129,6 +130,7 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -159,6 +161,7 @@ Key Focus Areas:
 | [0005-longest-palindromic-substring](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0087-scramble-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0087-scramble-string) |
