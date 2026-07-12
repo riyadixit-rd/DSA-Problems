@@ -339,6 +339,7 @@ Key Focus Areas:
 | [0595-big-countries](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1148-article-views-i) |
+| [1280-students-and-examinations](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1661-average-time-of-process-per-machine) |
