@@ -46,6 +46,7 @@ Key Focus Areas:
 | [0091-decode-ways](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0097-interleaving-string) |
+| [0151-reverse-words-in-a-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -156,6 +157,7 @@ Key Focus Areas:
 | [0027-remove-element](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1768-merge-strings-alternately](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1768-merge-strings-alternately) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
