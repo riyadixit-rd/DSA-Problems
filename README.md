@@ -61,6 +61,7 @@ Key Focus Areas:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0643-maximum-average-subarray-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
@@ -101,6 +102,7 @@ Key Focus Areas:
 | [0283-move-zeroes](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1288-remove-covered-intervals](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
