@@ -399,4 +399,16 @@ Key Focus Areas:
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
