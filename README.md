@@ -374,6 +374,7 @@ Key Focus Areas:
 | ------- |
 | [0180-consecutive-numbers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0182-duplicate-emails) |
+| [0196-delete-duplicate-emails](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
