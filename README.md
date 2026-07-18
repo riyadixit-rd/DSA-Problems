@@ -215,6 +215,7 @@ Key Focus Areas:
 | [0095-unique-binary-search-trees-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0097-interleaving-string) |
 | [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -314,6 +315,7 @@ Key Focus Areas:
 | [0029-divide-two-integers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
