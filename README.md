@@ -107,6 +107,7 @@ Key Focus Areas:
 | [0051-n-queens](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -312,6 +313,7 @@ Key Focus Areas:
 | ------- |
 | [0029-divide-two-integers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0136-single-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
