@@ -315,6 +315,7 @@ Key Focus Areas:
 | [0067-add-binary](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0136-single-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
