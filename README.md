@@ -68,6 +68,7 @@ Key Focus Areas:
 | [1004-max-consecutive-ones-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Key Focus Areas:
 | [1301-number-of-paths-with-max-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -214,6 +216,7 @@ Key Focus Areas:
 | [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3620-network-recovery-pathways) |
