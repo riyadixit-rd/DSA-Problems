@@ -390,6 +390,7 @@ Key Focus Areas:
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0196-delete-duplicate-emails) |
