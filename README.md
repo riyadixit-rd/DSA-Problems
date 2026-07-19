@@ -53,6 +53,7 @@ Key Focus Areas:
 | [0443-string-compression](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -171,6 +172,7 @@ Key Focus Areas:
 | [0334-increasing-triplet-subsequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0649-dota2-senate) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -446,4 +448,12 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0933-number-of-recent-calls) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
