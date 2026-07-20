@@ -315,6 +315,7 @@ Key Focus Areas:
 | [0023-merge-k-sorted-lists](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0328-odd-even-linked-list](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Enumeration
 |  |
