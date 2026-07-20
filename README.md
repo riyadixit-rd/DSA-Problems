@@ -116,6 +116,7 @@ Key Focus Areas:
 | [0643-maximum-average-subarray-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1260-shift-2d-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -360,6 +361,7 @@ Key Focus Areas:
 | [0037-sudoku-solver](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -393,6 +395,7 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
