@@ -265,6 +265,7 @@ Key Focus Areas:
 | [0101-symmetric-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -272,6 +273,7 @@ Key Focus Areas:
 | [0101-symmetric-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -279,6 +281,7 @@ Key Focus Areas:
 | ------- |
 | [0101-symmetric-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -291,6 +294,7 @@ Key Focus Areas:
 | [0101-symmetric-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
