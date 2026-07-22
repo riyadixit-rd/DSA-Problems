@@ -475,6 +475,7 @@ Key Focus Areas:
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -484,15 +485,18 @@ Key Focus Areas:
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0933-number-of-recent-calls) |
 ## Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
