@@ -123,6 +123,7 @@ Key Focus Areas:
 | [0628-maximum-product-of-three-numbers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -431,6 +432,7 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -513,6 +515,7 @@ Key Focus Areas:
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
