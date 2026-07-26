@@ -84,6 +84,7 @@ Key Focus Areas:
 | [0067-add-binary](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1840-maximum-building-height) |
@@ -118,6 +119,7 @@ Key Focus Areas:
 | [0283-move-zeroes](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0739-daily-temperatures) |
@@ -168,6 +170,7 @@ Key Focus Areas:
 | [0015-3sum](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0018-4sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
