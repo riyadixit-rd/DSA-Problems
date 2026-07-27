@@ -114,6 +114,7 @@ Key Focus Areas:
 | [0037-sudoku-solver](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0136-single-number) |
@@ -188,6 +189,7 @@ Key Focus Areas:
 | ------- |
 | [0011-container-with-most-water](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0649-dota2-senate) |
@@ -230,6 +232,7 @@ Key Focus Areas:
 | [0010-regular-expression-matching](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0087-scramble-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0087-scramble-string) |
