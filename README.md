@@ -28,6 +28,7 @@ Key Focus Areas:
 | [1657-determine-if-two-strings-are-close](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -150,6 +151,7 @@ Key Focus Areas:
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -417,6 +419,7 @@ Key Focus Areas:
 | [1260-shift-2d-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2352-equal-row-and-column-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String Matching
@@ -451,6 +454,7 @@ Key Focus Areas:
 | [0067-add-binary](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1260-shift-2d-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
