@@ -30,6 +30,7 @@ Key Focus Areas:
 | [2215-find-the-difference-of-two-arrays](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -67,6 +68,7 @@ Key Focus Areas:
 | [3499-maximize-active-section-with-trade-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -97,6 +99,7 @@ Key Focus Areas:
 | [3312-sorted-gcd-pair-queries](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -210,6 +213,7 @@ Key Focus Areas:
 | [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -389,6 +393,7 @@ Key Focus Areas:
 | ------- |
 | [0062-unique-paths](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
