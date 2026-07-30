@@ -21,6 +21,7 @@ Key Focus Areas:
 | [0030-substring-with-concatenation-of-all-words](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0037-sudoku-solver) |
+| [0208-implement-trie-prefix-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -54,6 +55,7 @@ Key Focus Areas:
 | [0093-restore-ip-addresses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0443-string-compression) |
@@ -528,6 +530,7 @@ Key Focus Areas:
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0933-number-of-recent-calls) |
 ## Queue
@@ -555,4 +558,8 @@ Key Focus Areas:
 | [0739-daily-temperatures](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
