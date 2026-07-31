@@ -315,6 +315,7 @@ Key Focus Areas:
 | [0199-binary-tree-right-side-view](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0872-leaf-similar-trees](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -324,6 +325,7 @@ Key Focus Areas:
 | [0199-binary-tree-right-side-view](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0872-leaf-similar-trees](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -334,6 +336,7 @@ Key Focus Areas:
 | [0199-binary-tree-right-side-view](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0994-rotting-oranges](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -349,6 +352,7 @@ Key Focus Areas:
 | [0199-binary-tree-right-side-view](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0872-leaf-similar-trees](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
