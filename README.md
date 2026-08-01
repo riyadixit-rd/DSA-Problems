@@ -319,6 +319,7 @@ Key Focus Areas:
 | [0199-binary-tree-right-side-view](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -363,6 +364,7 @@ Key Focus Areas:
 | [0199-binary-tree-right-side-view](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -435,6 +437,7 @@ Key Focus Areas:
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0099-recover-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 ## Union-Find
 |  |
