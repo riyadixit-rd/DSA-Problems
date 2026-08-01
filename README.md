@@ -64,6 +64,7 @@ Key Focus Areas:
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1268-search-suggestions-system](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1268-search-suggestions-system) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1657-determine-if-two-strings-are-close) |
@@ -148,6 +149,7 @@ Key Focus Areas:
 | [1004-max-consecutive-ones-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1260-shift-2d-grid) |
+| [1268-search-suggestions-system](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -194,6 +196,7 @@ Key Focus Areas:
 | [0016-3sum-closest](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1268-search-suggestions-system](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1657-determine-if-two-strings-are-close) |
@@ -303,6 +306,7 @@ Key Focus Areas:
 | [0004-median-of-two-sorted-arrays](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1268-search-suggestions-system](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1268-search-suggestions-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -423,6 +427,7 @@ Key Focus Areas:
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
+| [1268-search-suggestions-system](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1268-search-suggestions-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3620-network-recovery-pathways) |
@@ -591,6 +596,7 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1268-search-suggestions-system) |
 ## Game Theory
 |  |
 | ------- |
