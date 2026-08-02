@@ -101,6 +101,7 @@ Key Focus Areas:
 | [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1840-maximum-building-height) |
@@ -145,6 +146,7 @@ Key Focus Areas:
 | [0724-find-pivot-index](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -274,6 +276,7 @@ Key Focus Areas:
 | [0338-counting-bits](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -601,4 +604,5 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
