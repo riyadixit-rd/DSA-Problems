@@ -147,6 +147,7 @@ Key Focus Areas:
 | [0605-can-place-flowers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0739-daily-temperatures) |
@@ -231,6 +232,7 @@ Key Focus Areas:
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0649-dota2-senate) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -288,6 +290,7 @@ Key Focus Areas:
 | [0392-is-subsequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0486-predict-the-winner) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
