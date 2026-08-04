@@ -52,6 +52,7 @@ Key Focus Areas:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0067-add-binary](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0093-restore-ip-addresses) |
@@ -281,6 +282,7 @@ Key Focus Areas:
 | [0055-jump-game](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0095-unique-binary-search-trees-ii) |
