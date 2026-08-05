@@ -359,6 +359,7 @@ Key Focus Areas:
 | [0199-binary-tree-right-side-view](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -373,6 +374,7 @@ Key Focus Areas:
 | [0101-symmetric-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -472,6 +474,7 @@ Key Focus Areas:
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -497,6 +500,7 @@ Key Focus Areas:
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0841-keys-and-rooms) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
