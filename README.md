@@ -61,6 +61,7 @@ Key Focus Areas:
 | [0208-implement-trie-prefix-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -143,6 +144,7 @@ Key Focus Areas:
 | [0238-product-of-array-except-self](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0486-predict-the-winner) |
@@ -359,6 +361,7 @@ Key Focus Areas:
 | [0104-maximum-depth-of-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0841-keys-and-rooms) |
@@ -376,6 +379,7 @@ Key Focus Areas:
 | [0101-symmetric-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0994-rotting-oranges) |
@@ -478,6 +482,7 @@ Key Focus Areas:
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -504,6 +509,7 @@ Key Focus Areas:
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -517,6 +523,7 @@ Key Focus Areas:
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -647,4 +654,12 @@ Key Focus Areas:
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1406-stone-game-iii) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
