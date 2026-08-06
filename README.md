@@ -366,6 +366,7 @@ Key Focus Areas:
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3310-remove-methods-from-project) |
@@ -380,6 +381,7 @@ Key Focus Areas:
 | [0994-rotting-oranges](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -504,6 +506,7 @@ Key Focus Areas:
 | ------- |
 | [0547-number-of-provinces](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0841-keys-and-rooms) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
