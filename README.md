@@ -144,6 +144,7 @@ Key Focus Areas:
 | [0063-unique-paths-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0136-single-number) |
+| [0198-house-robber](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0283-move-zeroes) |
@@ -298,6 +299,7 @@ Key Focus Areas:
 | [0091-decode-ways](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0097-interleaving-string) |
+| [0198-house-robber](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0392-is-subsequence) |
