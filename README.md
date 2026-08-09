@@ -351,6 +351,7 @@ Key Focus Areas:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0374-guess-number-higher-or-lower](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1268-search-suggestions-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -704,4 +705,8 @@ Key Focus Areas:
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2336-smallest-number-in-infinite-set) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
