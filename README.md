@@ -146,6 +146,7 @@ Key Focus Areas:
 | [0074-search-a-2d-matrix](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0283-move-zeroes) |
@@ -217,6 +218,7 @@ Key Focus Areas:
 | [0015-3sum](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0018-4sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -328,6 +330,7 @@ Key Focus Areas:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -480,6 +483,7 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [1268-search-suggestions-system](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1268-search-suggestions-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -689,4 +693,8 @@ Key Focus Areas:
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1137-n-th-tribonacci-number) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
