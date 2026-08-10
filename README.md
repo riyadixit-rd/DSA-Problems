@@ -113,6 +113,7 @@ Key Focus Areas:
 | [1140-stone-game-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -321,6 +322,7 @@ Key Focus Areas:
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -675,16 +677,19 @@ Key Focus Areas:
 | [0877-stone-game](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1510-stone-game-iv) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -709,4 +714,12 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
