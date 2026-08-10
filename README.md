@@ -188,6 +188,7 @@ Key Focus Areas:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2352-equal-row-and-column-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -232,6 +233,7 @@ Key Focus Areas:
 | [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2542-maximum-subsequence-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2542-maximum-subsequence-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -253,6 +255,7 @@ Key Focus Areas:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2542-maximum-subsequence-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -491,6 +494,7 @@ Key Focus Areas:
 | [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [1268-search-suggestions-system](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3620-network-recovery-pathways) |
