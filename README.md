@@ -188,6 +188,7 @@ Key Focus Areas:
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2542-maximum-subsequence-score) |
@@ -236,6 +237,7 @@ Key Focus Areas:
 | [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -295,6 +297,7 @@ Key Focus Areas:
 | [1679-max-number-of-k-sum-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -364,6 +367,7 @@ Key Focus Areas:
 | [0374-guess-number-higher-or-lower](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1268-search-suggestions-system) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
