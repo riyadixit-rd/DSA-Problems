@@ -32,6 +32,7 @@ Key Focus Areas:
 | [2215-find-the-difference-of-two-arrays](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2352-equal-row-and-column-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -95,6 +96,7 @@ Key Focus Areas:
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
 | ------- |
@@ -195,6 +197,7 @@ Key Focus Areas:
 | [2462-total-cost-to-hire-k-workers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
