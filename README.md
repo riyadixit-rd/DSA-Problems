@@ -121,6 +121,7 @@ Key Focus Areas:
 | [1344-angle-between-hands-of-a-clock](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2029-stone-game-ix) |
@@ -188,6 +189,7 @@ Key Focus Areas:
 | [1406-stone-game-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1563-stone-game-v](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1563-stone-game-v) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -349,6 +351,7 @@ Key Focus Areas:
 | [1406-stone-game-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -712,6 +715,7 @@ Key Focus Areas:
 | [1140-stone-game-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
