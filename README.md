@@ -21,6 +21,7 @@ Key Focus Areas:
 | [0030-substring-with-concatenation-of-all-words](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0208-implement-trie-prefix-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -153,6 +154,7 @@ Key Focus Areas:
 | [0031-next-permutation](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0051-n-queens) |
