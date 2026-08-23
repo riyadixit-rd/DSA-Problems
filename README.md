@@ -59,6 +59,7 @@ Key Focus Areas:
 | [0030-substring-with-concatenation-of-all-words](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0087-scramble-string) |
