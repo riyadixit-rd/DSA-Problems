@@ -218,6 +218,7 @@ Key Focus Areas:
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -305,6 +306,7 @@ Key Focus Areas:
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2542-maximum-subsequence-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
