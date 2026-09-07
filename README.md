@@ -77,6 +77,7 @@ Key Focus Areas:
 | [0399-evaluate-division](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0649-dota2-senate) |
+| [0940-distinct-subsequences-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -392,6 +393,7 @@ Key Focus Areas:
 | [0746-min-cost-climbing-stairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
