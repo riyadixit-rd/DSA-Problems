@@ -130,6 +130,7 @@ Key Focus Areas:
 | [0264-ugly-number-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1137-n-th-tribonacci-number) |
@@ -850,4 +851,8 @@ Key Focus Areas:
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1510-stone-game-iv) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
