@@ -141,6 +141,7 @@ Key Focus Areas:
 | [1137-n-th-tribonacci-number](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1563-stone-game-v) |
@@ -872,4 +873,5 @@ Key Focus Areas:
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
