@@ -85,6 +85,7 @@ Key Focus Areas:
 | [0399-evaluate-division](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -353,6 +354,7 @@ Key Focus Areas:
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -434,6 +436,7 @@ Key Focus Areas:
 | [0392-is-subsequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0790-domino-and-tromino-tiling) |
@@ -824,6 +827,7 @@ Key Focus Areas:
 | [0032-longest-valid-parentheses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0901-online-stock-span) |
@@ -918,6 +922,7 @@ Key Focus Areas:
 | [0020-valid-parentheses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
