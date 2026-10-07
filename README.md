@@ -80,6 +80,7 @@ Key Focus Areas:
 | [0115-distinct-subsequences](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0399-evaluate-division) |
@@ -552,6 +553,7 @@ Key Focus Areas:
 | [0101-symmetric-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0841-keys-and-rooms) |
@@ -595,6 +597,7 @@ Key Focus Areas:
 | [0093-restore-ip-addresses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
