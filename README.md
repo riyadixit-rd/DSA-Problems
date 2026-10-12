@@ -38,6 +38,7 @@ Key Focus Areas:
 | [2215-find-the-difference-of-two-arrays](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2352-equal-row-and-column-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -270,6 +271,7 @@ Key Focus Areas:
 | [2542-maximum-subsequence-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -376,6 +378,7 @@ Key Focus Areas:
 | [2333-minimum-sum-of-squared-difference](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2542-maximum-subsequence-score) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -651,6 +654,7 @@ Key Focus Areas:
 | [0338-counting-bits](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
