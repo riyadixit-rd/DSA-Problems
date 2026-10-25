@@ -247,6 +247,7 @@ Key Focus Areas:
 | [1004-max-consecutive-ones-iii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1288-remove-covered-intervals) |
@@ -581,6 +582,7 @@ Key Focus Areas:
 | [0841-keys-and-rooms](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -601,6 +603,7 @@ Key Focus Areas:
 | [0994-rotting-oranges](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -729,6 +732,7 @@ Key Focus Areas:
 | ------- |
 | [0399-evaluate-division](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/riyadixit-rd/DSA-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -744,6 +748,7 @@ Key Focus Areas:
 | [0074-search-a-2d-matrix](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/riyadixit-rd/DSA-Problems/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/riyadixit-rd/DSA-Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
